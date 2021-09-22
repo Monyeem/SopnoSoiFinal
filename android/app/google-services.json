@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394127725999",
+    "project_id": "sopnosoi-86ab1",
+    "storage_bucket": "sopnosoi-86ab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394127725999:android:27d4a492d6b3be9c300b5a",
+        "android_client_info": {
+          "package_name": "com.excelitai.sopnosoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394127725999-lvt33nc09q5gl8vls2kkj9sanpqjia9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-KnITBEKp3mH5XEhQSx5vv1GdylZGjfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394127725999-lvt33nc09q5gl8vls2kkj9sanpqjia9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
